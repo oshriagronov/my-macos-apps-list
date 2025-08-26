@@ -14,7 +14,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 3. [Notes and Documents](#notes-and-documents)
 4. [Dev](#dev)
 5. [Dev - Framework Specific](#dev---framework-specific)
-6. [Bash](#bash)
+6. [Zsh](#zsh)
 7. [VSCode](#vscode)
    1. [Themes](#themes)
    2. [Extensions](#extensions)
@@ -61,7 +61,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 
 - [Visual Studio Code](https://code.visualstudio.com/) - Best IDE software ever. [`brew install --cask visual-studio-code`]
 - [Ghostty](https://ghostty.org/) - A very fast terminal emulator. [`brew install --cask ghostty`]
-- [Oh My ZSH]([https://www.warp.dev/](https://ohmyz.sh) - A neat framework with nice features for terminal
+- [Oh My ZSH](https://ohmyz.sh) - A neat framework with nice features for terminal
 
 ## Dev - Framework Specific
 
@@ -76,10 +76,6 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 ## VSCode
 
 This isn't actually related specifically to Mac, but I already made a list of recommendations so...
-
-### Themes
-
-- [Serendipity](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity) - A colorful theme built specifically for retina displays [[Install](vscode:extension/wicked-labs.wvsc-serendipity)]
 
 ### Extensions
 
