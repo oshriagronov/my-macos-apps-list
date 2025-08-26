@@ -36,15 +36,15 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Handbrake](https://handbrake.fr/) - App for compress videos [`brew install --cask handbrake`]
 - [ChatGPT](https://chatgpt.com/download/) - macOS app of chatGPT [`brew install --cask chatgpt`]
 - [AeroSpace](https://github.com/nikitabobko/AeroSpace) - Window manager for macOS like hyperland on linux [`brew install --cask nikitabobko/tap/aerospace`]
-- [Pure Paste](https://apps.apple.com/us/app/pure-paste/id1611378436?mt=12) - clear paste the text
-- [Command x](https://sindresorhus.com/command-x) - make the cut shortcut work like in windows [[Download](https://www.google.com/chrome/)]
-- [keyboardCleanTool](https://localsend.org/download) - turn off the keyborad for cleaning [`brew install --cask localsend`]
-- [NearDrop](https://github.com/grishka/NearDrop) - quickShare between android and mac [`brew install --cask whatsapp`]
+- [Pure Paste](https://apps.apple.com/us/app/pure-paste/id1611378436?mt=12) - clear paste the text.
+- [Command x](https://sindresorhus.com/command-x) - make the cut shortcut work like in windows.
+- [keyboardCleanTool](https://localsend.org/download) - turn off the keyborad for cleaning.
+- [NearDrop](https://github.com/grishka/NearDrop) - quickShare between android and mac.
 - [Aldente](https://apphousekitchen.com/) - Battery protection
-- [Mac Mouse Fix](https://macmousefix.com/en/) - Smoth scrolling like trackpad plus reverse scrolling [`brew install --cask the-unarchiver`]
-- [MediaMate](https://wouter01.gumroad.com/l/mediamate) - Media player in the notch and redesigned volume and brightness HUD [`brew install --cask google-drive`]
-- [Latest](https://max.codes/latest/) - App universally checks updates for all apps. [`brew install --cask motrix`]
-- [MiddleClick](https://github.com/artginzburg/MiddleClick) - 3 finger geature will act like middle click on mouse [`brew install --cask zoom`]
+- [Mac Mouse Fix](https://macmousefix.com/en/) - Smoth scrolling like trackpad plus reverse scrolling.
+- [MediaMate](https://wouter01.gumroad.com/l/mediamate) - Media player in the notch and redesigned volume and brightness HUD.
+- [Latest](https://max.codes/latest/) - App universally checks updates for all apps.
+- [MiddleClick](https://github.com/artginzburg/MiddleClick) - 3 finger geature will act like middle click on mouse.
 
 ## Media
 
